@@ -9,7 +9,7 @@ import org.testng.Assert;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class DatepickerAutomationMain {
+public class DatepickerDefaultAutomationMain {
 
     private static WebDriver driver;
     private static final String URL = "https://jqueryui.com/datepicker/#default";
